@@ -14,6 +14,7 @@ Bot de Discord + API de noticias ambientales + pyttsx3.
 - Requets (para consumir API's)
 - SQLite (para guardar progreso de usuarios)
 - pyttsx3 (para ajustar el habla con los usuarios del entorno)
+- os (para buscar memes ecologicos guardados)
 
 ## Problema que resuelve
 La gente usualmente no se interesa en los temas ambientales, para eso el Bot se volvería algo más cercano a los usuarios, introduciendo un ambiente de competencia y que potencialmente, y con carisma programada, induciría curiosidad a los usuarios para investigar con un propósito mayormente competitivo.
