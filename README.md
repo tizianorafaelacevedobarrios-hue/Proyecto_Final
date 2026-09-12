@@ -26,5 +26,5 @@ Definan su idea respondiendo a estas preguntas:
     Ayuda a la gente más joven,  que muchas veces se ve apartada de estos temas por ser un publico difícil para llegar o ser considerados muy jóvenes para temas importantes.
 ¿Qué tecnologías van a usar de las que ya conocemos?
 
-¿Cómo funcionará en terminos generales? (ej: un bot que da consejos ecológicos, una web que calcula la huella de carbono, un analizador de textos sobre noticias ambientales, etc.)
+¿Cómo funcionará en terminos generales? 
     Un Bot de Discord que, a una hora programada, 2 días a la semana iniciará un concurso de preguntas y respuestas de 1 hora en el que se darán puntos por las respuestas correctas al final y se explicaran los temas del concurso. Los puntos se guardaran para una tierlist que al final de un mes se podrá reiniciar el mensual pero se mantendrán almacenados los puntos de cada usuario y al final del año se darán los resultados anuales.
